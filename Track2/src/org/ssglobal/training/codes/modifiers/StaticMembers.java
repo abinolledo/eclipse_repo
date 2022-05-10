@@ -16,7 +16,7 @@ public class StaticMembers {
 		}
 		return value % 2 == 0;
 	}
-	public boolean isZero(int value) {
+	public static boolean isZero(int value) {
 		return value == 0;
 	}
 	

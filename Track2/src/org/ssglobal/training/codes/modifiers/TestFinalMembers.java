@@ -2,7 +2,7 @@ package org.ssglobal.training.codes.modifiers;
 
 public class TestFinalMembers extends FinalMembers{
 	
-	public static num = 0;
+	public static int num = 0;
 	
 	public static void main(String[] args) {
 		FinalMembers fm = new FinalMembers();
